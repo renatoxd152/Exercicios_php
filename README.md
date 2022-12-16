@@ -12,8 +12,8 @@ Assim, como 7 é impar, então 3*7+1 é igual a 22.
 E assim continua o esquema
 
 <ul>
-11 (impar): 3*11+1 = 34
-34 (par): 34/2 = 17
+<li>11 (impar): 3*11+1 = 34</li>
+<li>34 (par): 34/2 = 17</li>
 17 (impar): 3*17+1 = 52
 52 (par): 52/2 = 26
 26 (par): 26/2 = 13
