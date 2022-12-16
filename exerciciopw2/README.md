@@ -1,4 +1,4 @@
-# Exercicios com php
+# Exercicio com php
 Em 1930, o matemático alemão Luther Collatz teria criado um problema matemático aparentemente simples que ficou conhecido posteriormente como "Conjectura de Collatz". Muitos outros nomes existem para esse problema, sendo conhecido também simplesmente como 3x+1.
 
 O esquema é o seguinte. Escolha um número. Qualquer número. Digamos sete (7).
