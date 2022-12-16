@@ -14,18 +14,18 @@ E assim continua o esquema
 <ul>
 <li>11 (impar): 3*11+1 = 34</li>
 <li>34 (par): 34/2 = 17</li>
-17 (impar): 3*17+1 = 52
-52 (par): 52/2 = 26
-26 (par): 26/2 = 13
-13 (impar): 3*13+1 = 40
-40 (par): 40/2 = 20
-20 (par): 20/2 = 10
-10 (par): 10/2 = 5
-5 (impar): 3*5+1 = 16
-16 (par): 16/2 = 8
-8 (par): 8/2 = 4
-4 (par): 4/2 = 2
-2 (par): 2/2 = 1
+<li>17 (impar): 3*17+1 = 52</li>
+<li>52 (par): 52/2 = 26</li>
+<li>26 (par): 26/2 = 13</li>
+<li>13 (impar): 3*13+1 = 40</li>
+<li>40 (par): 40/2 = 20</li>
+<li>20 (par): 20/2 = 10</li>
+<li>10 (par): 10/2 = 5</li>
+<li>5 (impar): 3*5+1 = 16</li>
+<li>16 (par): 16/2 = 8</li>
+<li>8 (par): 8/2 = 4</li>
+<li>4 (par): 4/2 = 2</li>
+<li>2 (par): 2/2 = 1</li>
 <ul>
 Agora, chegamos no número 1. Como 1 é um número impar, teríamos 3*1+1 = 4. Só que 4 já sabemos que é par, que será dividido por 2 e resultará em 2, que é par e será dividido por 2 e resultará em 1, que é impar... Ou seja, um loop infinito.
 
