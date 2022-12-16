@@ -11,6 +11,7 @@ Assim, como 7 é impar, então 3*7+1 é igual a 22.
 
 E assim continua o esquema
 
+<ul>
 11 (impar): 3*11+1 = 34
 34 (par): 34/2 = 17
 17 (impar): 3*17+1 = 52
@@ -25,6 +26,7 @@ E assim continua o esquema
 8 (par): 8/2 = 4
 4 (par): 4/2 = 2
 2 (par): 2/2 = 1
+<ul>
 Agora, chegamos no número 1. Como 1 é um número impar, teríamos 3*1+1 = 4. Só que 4 já sabemos que é par, que será dividido por 2 e resultará em 2, que é par e será dividido por 2 e resultará em 1, que é impar... Ou seja, um loop infinito.
 
 Parece coincidência, mas não. TODOS os números inteiros positivos conhecidos e testados, sem excessão, sempre acaba caindo no loop 4, 2 e 1. A conjectura pergunta: "existe algum número que não cai no loop do 4, 2, 1?".
