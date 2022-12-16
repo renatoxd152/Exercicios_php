@@ -6,7 +6,7 @@
 </head>
 <body>
     <form method = "POST" action = "processar.php" enctype="multipart/form-data">
-        <input type="file" name="arquivo[]" accept=".pdf,.jpeg,.png,.txt" multiple>
+        <input type="file" name="arquivo[]" accept=".pdf,.jpeg,.png" multiple>
         <br><br>
         <button>Enviar</button>
     </form>
