@@ -1,5 +1,4 @@
 <?php
-    //Renato Porto Morillo-SC3014762
     if(isset($_FILES["arquivo"]) and !empty($_FILES["arquivo"]))
     {
         $contArquivos=0;
